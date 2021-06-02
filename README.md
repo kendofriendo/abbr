@@ -15,7 +15,7 @@ I know have a handy dandy abbreviation to get to my itch.io apps folder. While s
 
 You can see how fish interpreted the command to create the abbreviation by typping `abbr -s`
 
-`> abbr -a -U -- itchdir 'cd /home/kk/.config/itch/apps/'
+`> abbr -a -U -- itchdir 'cd /home/kk/.config/itch/apps/'`
 
 You can also use this option to quickly get a list of all of your abbreviations for backups and migrations. The stdout can be copied and pasted as is to migrate your abbreviations!
 
