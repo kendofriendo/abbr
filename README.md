@@ -21,4 +21,6 @@ You can also use this option to quickly get a list of all of your abbreviations 
 
 Addtitionally, `abbr -e` to remove an abbreviation, or `abbr -r` to rename an existing abbreviation (eg `abbr -r itchdir itchd`). The rename feature is quite nice since can set and forget lengthy commands and paths and rename them if they become inconvenient without having to look them up again.
 
+Lastly, if you have access to 20th century technological innovations like a Graphical Processing Unit, you can view, add, edit, and delete your fish abbreviations by using fish's built-in `fish_config`.
+
 Feel free to ping with your suggestions, fork, submit a pull request, or hurl insults at me.
