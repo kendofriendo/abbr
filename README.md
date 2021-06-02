@@ -24,3 +24,5 @@ Addtitionally, `abbr -e` to remove an abbreviation, or `abbr -r` to rename an ex
 Lastly, if you have access to 20th century technological innovations like a Graphical Processing Unit, you can view, add, edit, and delete your fish abbreviations by using fish's built-in `fish_config`.
 
 Feel free to ping with your suggestions, fork, submit a pull request, or hurl insults at me.
+
+Please see the [the official documentation](https://fishshell.com/docs/current/cmds/abbr.html) for more information.
